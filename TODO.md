@@ -1,0 +1,3 @@
+- [x] Add PATCH method to PlantByID class in server/app.py to update plant attributes from request JSON and return updated plant JSON.
+- [x] Add DELETE method to PlantByID class in server/app.py to delete the plant and return 204 No Content.
+- [ ] Run pytest to verify all tests pass.
